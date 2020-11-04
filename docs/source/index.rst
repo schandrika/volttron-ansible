@@ -2,7 +2,7 @@
 
 VOLTTRON Deployment Recipes
 ===========================
-"main branch"
+"master branch"
 Begining with version 7.1, VOLTTRON introduces the concept of recipes. This system leverages
 `ansible <https://docs.ansible.com/ansible/latest/index.html>`_ to orchestrate the deployment and
 configuration process for VOLTTRON. These recipes can be used for any deployment, but are
