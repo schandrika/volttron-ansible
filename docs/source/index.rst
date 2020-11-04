@@ -1,3 +1,4 @@
+.. _volttron-ansible
 .. VOLTTRON-ANSIBLE documentation master file
 
 VOLTTRON Deployment Recipes
